@@ -1,0 +1,11 @@
+{
+  "name": "happybirtday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Berkkan Katirci",
+  "license": "ISC"
+}
